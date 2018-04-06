@@ -18,5 +18,7 @@ public class PesawatAksi2 {
         Sylvi.Harga=700000;
         Sylvi.Kelas="VIP";
         Sylvi.Tujuan="Surabaya";
+        
+        Sylvi.cetakInfo();
     }
 }
