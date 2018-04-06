@@ -11,6 +11,6 @@ package praktek03;
  */
 public class PesawatAksi {
     public static void main(String[] args) {
-        
+        Pesawat Arvin = new Pesawat ();
     }
 }
