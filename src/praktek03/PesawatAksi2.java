@@ -12,5 +12,11 @@ package praktek03;
 public class PesawatAksi2 {
     public static void main(String[] args) {
         Pesawat Sylvi = new Pesawat();
+        
+        Sylvi.Maskapai="Garuda";
+        Sylvi.Type="Boeing 757";
+        Sylvi.Harga=700000;
+        Sylvi.Kelas="VIP";
+        Sylvi.Tujuan="Surabaya";
     }
 }
