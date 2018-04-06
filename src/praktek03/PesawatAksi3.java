@@ -18,5 +18,7 @@ public class PesawatAksi3 {
         Iqy.Harga=6500000;
         Iqy.Kelas="Bisnis";
         Iqy.Tujuan="Yogyakarta";
+        
+        Iqy.cetakInfo();
     }
 }
