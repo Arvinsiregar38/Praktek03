@@ -18,5 +18,7 @@ public class PesawatAksi {
         Arvin.Harga=500000;
         Arvin.Kelas="Ekonomi";
         Arvin.Tujuan="Jakarta";
+        
+        Arvin.cetakInfo();
     }
 }
