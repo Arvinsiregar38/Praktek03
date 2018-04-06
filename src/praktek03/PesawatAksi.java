@@ -12,5 +12,11 @@ package praktek03;
 public class PesawatAksi {
     public static void main(String[] args) {
         Pesawat Arvin = new Pesawat ();
+        
+        Arvin.Maskapai="Lion Air";
+        Arvin.Type="Boeing 737";
+        Arvin.Harga=500000;
+        Arvin.Kelas="Ekonomi";
+        Arvin.Tujuan="Jakarta";
     }
 }
